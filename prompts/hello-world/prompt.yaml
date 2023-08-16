@@ -1,4 +1,5 @@
-input_variables: []
+input_variables:
+- name
 output_parser: null
-template: 'Попреветствуй всех от имени ГигаЧата.'
+template: 'Тебя зовут {name}. Представься и попреветствуй весь мир.'
 template_format: f-string
